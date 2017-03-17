@@ -50,7 +50,7 @@ TZ_FILES = $(TZDATA_DIR)/africa         \
 ## Define the default time zone.
 ##
 
-TZ_DEFAULT = America/Los_Angeles
+TZ_DEFAULT = Europe/Minsk
 
 ##
 ## Define the cutoff year for time zone data.
